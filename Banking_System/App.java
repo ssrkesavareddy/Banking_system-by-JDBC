@@ -8,7 +8,7 @@ import java.sql.*;
 class BankingApp {
     private static final String url = "jdbc:mysql://localhost:3306/ banking_system";
     private static final String username = "root";
-    private static final String password = "25082002";
+    private static final String password = "*********";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         try{
